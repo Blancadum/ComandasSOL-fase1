@@ -1,5 +1,13 @@
 # 🔵 FASE 1: Programación Orientada a Objetos (OOP Básico)
 
+- El proyecto completo se encuentra en [GitHub](https://github.com/Blancadum/ComandasSOL) 
+- [Fase 1](https://github.com/Blancadum/ComandasSOL-fase1)
+- [Fase 2](https://github.com/Blancadum/ComandasSOL-fase2)
+- [Fase 3](https://github.com/Blancadum/ComandasSOL-fase3)
+- [Fase 4](https://github.com/Blancadum/ComandasSOL-fase4)
+- [Fase 5](https://github.com/Blancadum/ComandasSOL-fase5)
+
+
 ## 📚 Objetivo de Esta Fase
 
 Aprender los **fundamentos de la Programación Orientada a Objetos** construyendo un **sistema simple de gestión de comandas de restaurante** usando:
